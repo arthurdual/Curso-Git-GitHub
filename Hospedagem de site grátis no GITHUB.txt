@@ -1,0 +1,8 @@
+crie um repositorio 
+coloque os arquivo do site no repositorio
+
+clique em setting
+va em github pages 
+em source selecione master
+
+recarrege a pagina e o link estará em GITHUB pages

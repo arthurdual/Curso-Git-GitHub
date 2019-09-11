@@ -1,0 +1,13 @@
+git clone // repositorio online é clonado para sua maquina
+
+git fetch //faz download dos repositorios para ver as modificações feitas
+	  //te deixa comparar as modificações feitas e escolher qual versão será usada
+git checkout origin //vai pra repositorio online
+
+/*
+Para ver este ramo recém-publicado, você precisará executar um simples "git fetch" para o controle remoto.
+Usando o comando "git checkout", você pode criar uma versão local desse ramo
+*/
+
+git pull //sincroniza repositorio local com o repositorio online
+git push //sincroniza repositorio online com o repositorio local

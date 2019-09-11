@@ -1,0 +1,45 @@
+
+$ git status
+On branch teste
+nothing to commit, working tree clean
+
+$ touch d.txt
+
+$ git status
+On branch teste
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        d.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+
+$ git add d.txt
+
+
+$ git status
+On branch teste
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   d.txt
+
+
+$ git log --oneline
+6ac3478 (HEAD -> teste) modificando os arquivos a.txt b.txt
+69c7127 (master) a.txt Adicionei a linha entendendo o Head
+c33fe34 modificado o arquivo a.txt e criado o arquivo c.txt
+2596aab Criado os arquivos a.txt b.txt
+
+
+$ git commit -m "criado o arquivo d.txt"
+[teste cba0c0b] criado o arquivo d.txt
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 d.txt
+
+
+$ git log --oneline
+cba0c0b (HEAD -> teste) criado o arquivo d.txt
+6ac3478 modificando os arquivos a.txt b.txt
+69c7127 (master) a.txt Adicionei a linha entendendo o Head
+c33fe34 modificado o arquivo a.txt e criado o arquivo c.txt
+2596aab Criado os arquivos a.txt b.txt

@@ -1,0 +1,23 @@
+
+//pesquisa por qualificadores
+explore é uasdo pra pesquisar por profissionais
+
+language:java location:brazil,SP,São Paulo capital
+//traz projetos que utilizam java no brasil em SP São Paulo capital
+
+
+//pesquisa por topicos
+topics é uasdo pra pesquisar por topicos
+
+//configurando perfil
+
+jobs github
+
+
+coloque lincensa no repositorio
+
+mit liCense
+
+
+//escreva LICENSE no campo para criar novo documento e aparecerá um botao ao lado
+mit liCense

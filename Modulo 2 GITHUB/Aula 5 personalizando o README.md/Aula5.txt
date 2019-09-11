@@ -1,0 +1,32 @@
+//add titulo
+Ao digitar um titulo no readme,md use # para fazer um titulo
+# = h1
+## = h2
+### = h3
+
+
+//add imagens
+//para add imagens, ela deve estar no repositorio 
+![alt text](http://url/to/img.png) //por caminho
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)//por link
+
+
+//add video
+## http://embedyoutube.org/ // converte um link de video do youtube com titulo e image alt
+para a linguagem Markdown
+
+exemplo:
+link:      https://www.youtube.com/watch?time_conT70t3mDiwvgtinue=427&v=
+titulo:    Personalizando o README.md com markdown
+alt image: Personalizando o README.md com markdown
+
+gera este resultado
+
+[![Personalizando o README.md com markdown](http://img.youtube.com/vi/T70t3mDiwvg/0.jpg)](http://www.youtube.com/watch?v=T70t3mDiwvg "Personalizando o README.md com markdown")
+
+//add links
+[nome do link](link que desejar)
+
+link para ver mais sobre o markdonw
+https://guides.github.com/features/mastering-markdown/
+

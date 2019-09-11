@@ -1,0 +1,9 @@
+create new file -- cria novo documento 
+
+//sincronizando com repositorio local
+
+
+git pull //sincroniza com o repositorio online
+git push //sincroniza com o repositorio local
+git clone // repositorio online é clonado para sua maquina
+

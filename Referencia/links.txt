@@ -1,0 +1,6 @@
+//guia basico
+https://rogerdudler.github.io/git-guide/index.pt_BR.html
+
+//referencia para comandos
+https://woliveiras.com.br/posts/comandos-mais-utilizados-no-git/#Verificandoasconfiguraeslocais
+https://comandosgit.github.io/#basico

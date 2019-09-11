@@ -1,0 +1,28 @@
+ferramentas para KANBAN: https://trello.com
+
+crie um projeto
+
+
+add a column To DO  
+add a column In progress
+add a column Done
+
+crie as notas/cartoes do que é para fazer o que foi feito e o que esta em progresso
+
+ao criar as notas o codigo -[] cria um checkbox ex:
+
+-[] Ajustes gerais
+  -[] redimensionar logo
+  -[] refazer footer
+  -[] arrumar aside
+  -[] reestilizar menu
+-[] Ajustes body
+  -[] redimensionar imagens
+  -[] refazer link do video
+  -[] estilizar hover dos botoes
+
+salve 
+
+
+lista de emogis
+https://github.com/professorjosedeassis/emoji-cheat-sheet#objects

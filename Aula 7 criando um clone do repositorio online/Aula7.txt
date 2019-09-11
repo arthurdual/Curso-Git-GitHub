@@ -1,7 +1,0 @@
-git clone + link repositorio online //cria um clone reposito online na sua pasta local
-
-ls //mostra os arquivos no repositorio
-mkdir teste//criaumpasta
-touch teste.txt//cria um arquivo
-
-
